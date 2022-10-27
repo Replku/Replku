@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on some random things and whatever else!
 
-- 🤝 I’m looking for help with [my website](https://github.com/3kh0/3kh0.github.io/). Make a pull if you can!
+<!-- - 🤝 I’m looking for help with [my website](https://github.com/3kh0/3kh0.github.io/). Make a pull if you can!  -->
 
 - 👨‍💻 All of my projects are available at my repos tab [https://github.com/Replku?tab=repositories](https://github.com/Replku?tab=repositories) .
 
