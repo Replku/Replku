@@ -22,13 +22,11 @@
 
 - 🌱 I’m currently learning [discord.js](https://discord.js.org).
 
-- 👯 I’m looking to collaborate on anything intresting, hit me up at my [email](mailto:echo-the-coder@tuta.io)
 
 - 🤝 I’m looking for help with [my website](https://github.com/3kh0/3kh0.github.io/). Make a pull if you can!
 
 - 👨‍💻 All of my projects are available at [3kh0.github.io](https://3kh0.github.io/) and my [repos tab](https://github.com/3kh0?tab=repositories).
 
-- 📫 You can ping me in [my epic discord server](https://discord.gg/wv6huJAwEv) or hit me up at my [email](mailto:echo-the-coder@tuta.io).
 
 - ⚡ Fun fact [hooooooooo](https://hooooooooo.com/)!
 
