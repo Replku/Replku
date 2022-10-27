@@ -23,7 +23,7 @@
 
 <h2 align="left">Stats</h2>
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=3kh0&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="Replku" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Replku&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="Replku" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Replku&theme=dark" alt="Replku" /></p><br>
   </html>
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=3kh0&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="3kh0" /></p>
