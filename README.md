@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [my website](https://github.com/3kh0/3kh0.github.io/). Make a pull if you can!
 
-- 👨‍💻 All of my projects are available at [3kh0.github.io](https://github.com/Replku?tab=repositories) and my [repos tab](https://github.com/3kh0?tab=repositories).
+- 👨‍💻 All of my projects are available at [https://github.com/Replku?tab=repositories](https://github.com/Replku?tab=repositories) and my [repos tab](https://github.com/3kh0?tab=repositories).
 
 
 - ⚡ Fun fact [hooooooooo](https://hooooooooo.com/)!
