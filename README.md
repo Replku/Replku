@@ -6,7 +6,7 @@
 <h2>About me</h2>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Knows a bit of-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
-  <img src="https://img.shields.io/badge/Knows-Python-blue/?logo=python&logoColor=warning&color=blue and yellow" alt="html">
+  <img src="https://img.shields.io/badge/Knows-Python-blue/?logo=python&logoColor=warning&color=blue,yellow" alt="html">
   
 
 - 🔭 I’m currently working on some random things and whatever else!
