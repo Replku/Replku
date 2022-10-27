@@ -47,6 +47,5 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=3kh0&theme=dark" alt="3kh0" /></p><br>
   </html>
 
-## Other stuff: <br>
 
 </html>
